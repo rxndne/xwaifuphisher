@@ -21,7 +21,6 @@
    ```bash
    bash xwaifuphisher.sh
 
-
 ## TERMUX
 
 1. **Clone the Repository:**
