@@ -1,10 +1,9 @@
-## XWAIFUPHISHER
+# XWAIFUPHISHER
 
 # INSTALLATION
 
 
-# KALI
-
+## KALI
 
 1. **Clone the Repository:**
    ```bash
@@ -12,7 +11,7 @@
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd NGLexploit
+   cd xwaifuphisher
 
 3. **Install Required Packages:**
    ```bash
@@ -20,4 +19,23 @@
 
 4. **Usage**:
    ```bash
-   bash nglexploit.sh
+   bash xwaifuphisher.sh
+
+
+## KALI
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/lotusSec/xwaifuphisher.git
+
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd xwaifuphisher
+
+3. **Install Required Packages:**
+   ```bash
+   pkg install php curl ssh jp2a unzip
+
+4. **Usage**:
+   ```bash
+   bash xwaifuphisher.sh
