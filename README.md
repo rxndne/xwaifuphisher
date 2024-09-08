@@ -22,7 +22,7 @@
    bash xwaifuphisher.sh
 
 
-## KALI
+## TERMUX
 
 1. **Clone the Repository:**
    ```bash
