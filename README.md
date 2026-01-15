@@ -19,7 +19,7 @@
 
 4. **Usage**:
    ```bash
-   bash xwaifuphisher.sh
+   bash xwaifuphish.sh
 
 ## TERMUX
 
@@ -37,7 +37,7 @@
 
 4. **Usage**:
    ```bash
-   bash xwaifuphisher.sh
+   bash xwaifuphish.sh
    
 # OPEN/RUN ON CLOUD SHELL
 <p align="left">
