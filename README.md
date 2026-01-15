@@ -7,7 +7,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/lotusSec/xwaifuphisher.git
+   git clone https://github.com/rxndne/xwaifuphisher.git
 
 2. **Navigate to the Project Directory:**
    ```bash
@@ -25,7 +25,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/lotusSec/xwaifuphisher.git
+   git clone https://github.com/rxndne/xwaifuphisher.git
 
 2. **Navigate to the Project Directory:**
    ```bash
