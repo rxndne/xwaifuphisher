@@ -38,8 +38,7 @@
 4. **Usage**:
    ```bash
    bash xwaifuphisher.sh
-
-# OPEN/RUN ON CLOUD SHELL
+   
 # OPEN/RUN ON CLOUD SHELL
 <p align="left">
   <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/rxndne/xwaifuphisher.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
