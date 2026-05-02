@@ -7,7 +7,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/rxndne/xwaifuphisher.git
+   git clone https://github.com/rxndnce/xwaifuphisher.git
 
 2. **Navigate to the Project Directory:**
    ```bash
